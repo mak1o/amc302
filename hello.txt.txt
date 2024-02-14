@@ -2,6 +2,8 @@ This is my hello txt
 
 301 section
 
+Hello React Native Hello React Native!!
+
 Hello React Native 301!!!!
 Hello React Native 301!!!!
 Hello React Native 301!!!!
@@ -10,12 +12,5 @@ Hello React Native 301!!!!
 Hello React Native 301!!!!
 
 
-Hello React Native 301!!!!
-Hello React Native 301!!!!
-Hello React Native 301!!!!
-Hello React Native 301!!!!
 
-Hello React Native 301!!!!
-Hello React Native 301!!!!
-Hello React Native 301!!!!
-Hello React Native 301!!!!
+
