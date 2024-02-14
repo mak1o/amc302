@@ -3,9 +3,3 @@ This is my hello txt
 hello text
 
 
-
-Hello AMC
-
-hello text
-
-
