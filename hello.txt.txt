@@ -1,12 +1,3 @@
 This is my hello txt
 
-hello react native
-
-hello world amc 302
-
-hello react native
-hello react native
-hello react native
-hello react native
-hello react native
-hello react native
+301 section
