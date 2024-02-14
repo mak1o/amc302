@@ -9,7 +9,6 @@ hello text
 
 hello text
 hello text
-
 hello text
 hello text
 hello text
